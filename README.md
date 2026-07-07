@@ -1,0 +1,4 @@
+-The balance is simulating a casino or a gambling system, where only limited amount can be used 
+-correct column or row results in winning 2x
+- exact postion results in winning 10x
+- withdrawl means taking all the money out and quitting
